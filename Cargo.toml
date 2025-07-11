@@ -1,0 +1,17 @@
+[package]
+name = "bitcoin-vanity-address"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitcoin = "0.31.0"
+secp256k1 = { version = "0.28.0", features = ["rand"] }
+rand = "0.8.5"
+eframe = { version = "0.24.0", features = ["default_fonts", "glow"] }  # egui framework for GUI
+winapi = { version = "0.3.9", features = ["winuser", "windef"] }  # Windows API
+rayon = "1.8.0"    # For multi-threading
+num_cpus = "1.16.0"  # Pour détecter le nombre de processeurs
+chrono = "0.4.31"  # For timestamps in logs
+log = "0.4.20"     # Logging
+env_logger = "0.10.0"
+rfd = "0.11.4"     # File dialog
