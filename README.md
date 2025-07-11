@@ -22,8 +22,8 @@ Un générateur d'adresses Bitcoin vanity avec interface graphique, optimisé po
 
 1. Clonez le dépôt :
 ```bash
-git clone [URL_DU_REPO]
-cd bitcoin-vanity-address
+git clone https://github.com/DasJu64/BTC_Vanity_Segwit.git
+cd BTC_Vanity_Segwit
 ```
 
 2. Compilez le projet :

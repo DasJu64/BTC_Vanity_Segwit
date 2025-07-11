@@ -1,5 +1,5 @@
 [package]
-name = "bitcoin-vanity-address"
+name = "btc-vanity-segwit"
 version = "0.1.0"
 edition = "2021"
 
