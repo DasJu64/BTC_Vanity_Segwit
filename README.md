@@ -80,8 +80,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 Ce projet est mis à la disposition de tous, librement et gratuitement. Vous pouvez l'utiliser, le modifier et le distribuer comme bon vous semble. 
 
-⚠️ Note : Ce logiciel est fourni "tel quel", sans garantie d'aucune sorte. L'utilisation est à vos propres risques.
+⚠️ Note : Ce logiciel est fourni "tel quel" et peut présenter des bugs, Merci de vérifier la validité de vos clés !
 
 ---
-
-_"La connaissance appartient à l'humanité, et est le flambeau qui éclaire le monde." - Louis Pasteur_
